@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+
+	<class>org.javaweb.openfire.plugin.TestPlugin</class>
+ 
+	<!-- Plugin meta-data -->
+	<name>JavaWeb Plugin</name>
+    <description>This is an penetration test plugin for openfire.</description>
+    <author>yz</author>
+
+    <version>1.0</version>
+    <date>10/01/2015</date>
+    <url>http://www.javaweb.org/</url>
+    <minServerVersion>3.0.0</minServerVersion>
+    <licenseType>gpl</licenseType>
+ 
+	<adminconsole>   
+	 	<tab id="tab-server">
+            <sidebar id="sidebar-server-settings">
+                <item id="test-service" name="Test Service" url="css.jsp"
+                     description="Click is trigger blog plugin" />
+            </sidebar>
+        </tab>
+    </adminconsole>
+</plugin>
