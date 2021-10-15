@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d111022-fab0-42cf-be3f-16b8fdeeb78a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/plugins/SyncWorld/src/java/org/javaweb/openfire/plugin/servlet/Behinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/org/javaweb/openfire/plugin/TestPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/org/javaweb/openfire/plugin/servlet/Chopper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/org/javaweb/openfire/plugin/servlet/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/build.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/java-dist/plugin-test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/jsp-dist/classes/org/javaweb/openfire/plugin/test/cmd_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/jsp-dist/classes/org/javaweb/openfire/plugin/test/god_jsp$X.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/jsp-dist/classes/org/javaweb/openfire/plugin/test/god_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/jsp-dist/classes/org/javaweb/openfire/plugin/test/re2_jsp$U.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/jsp-dist/classes/org/javaweb/openfire/plugin/test/re2_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/jsp-dist/classes/org/javaweb/openfire/plugin/test/re3_jsp$U.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/jsp-dist/classes/org/javaweb/openfire/plugin/test/re3_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/jsp-dist/lib/plugin-test-jsp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/jsp-dist/src/org/javaweb/openfire/plugin/test/cmd_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/jsp-dist/src/org/javaweb/openfire/plugin/test/god_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/jsp-dist/src/org/javaweb/openfire/plugin/test/re2_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/jsp-dist/src/org/javaweb/openfire/plugin/test/re3_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/jsp-dist/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/test/changelog.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/SyncWorld/src/changelog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/test/lib/plugin-test-jsp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/test/lib/plugin-test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/test/logo_large.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/SyncWorld/src/logo_large.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/test/logo_small.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/SyncWorld/src/logo_small.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/test/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/SyncWorld/src/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/test/readme.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/SyncWorld/src/readme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/test/web/WEB-INF/web-custom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/bin/test/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/src/changelog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/src/java/org/javaweb/openfire/plugin/TestPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/SyncWorld/src/java/org/javaweb/openfire/plugin/SyncWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/src/java/org/javaweb/openfire/plugin/servlet/Chopper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/src/java/org/javaweb/openfire/plugin/servlet/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/SyncWorld/src/java/org/javaweb/openfire/plugin/servlet/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/src/logo_large.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/src/logo_small.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/src/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/src/readme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/src/web/WEB-INF/web-custom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/SyncWorld/src/web/WEB-INF/web-custom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/src/web/cmd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/SyncWorld/src/web/cmd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/src/web/god.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/src/web/re2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/test/src/web/re3.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zX1iFfX6uTzNtCKVYLBGuD7Fjz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.52595156" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d111022-fab0-42cf-be3f-16b8fdeeb78a" name="Changes" comment="" />
+      <created>1634279746608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634279746608</updated>
+      <workItem from="1634279755370" duration="6370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
