@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="plugin-test (2)">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/src/plugins/test/bin/test/lib/plugin-test.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
