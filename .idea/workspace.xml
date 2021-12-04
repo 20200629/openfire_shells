@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d111022-fab0-42cf-be3f-16b8fdeeb78a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/build/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/build.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/openfire.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/openfire.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/SyncWorld.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/SyncWorld.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/SyncWorld/lib/plugin-SyncWorld-jsp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/SyncWorld/lib/plugin-SyncWorld-jsp.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/SyncWorld/lib/plugin-SyncWorld.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/SyncWorld/lib/plugin-SyncWorld.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/SyncWorld/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/SyncWorld/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/java-dist/classes/org/javaweb/openfire/plugin/SyncWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/java-dist/classes/org/javaweb/openfire/plugin/SyncWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/java-dist/classes/org/javaweb/openfire/plugin/servlet/Behinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/java-dist/classes/org/javaweb/openfire/plugin/servlet/Behinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/java-dist/classes/org/javaweb/openfire/plugin/servlet/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/java-dist/classes/org/javaweb/openfire/plugin/servlet/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/java-dist/lib/plugin-SyncWorld.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/java-dist/lib/plugin-SyncWorld.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/jsp-dist/classes/org/javaweb/openfire/plugin/SyncWorld/cmd_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/jsp-dist/classes/org/javaweb/openfire/plugin/SyncWorld/cmd_jsp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/jsp-dist/lib/plugin-SyncWorld-jsp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/jsp-dist/lib/plugin-SyncWorld-jsp.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/jsp-dist/src/org/javaweb/openfire/plugin/SyncWorld/cmd_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/jsp-dist/src/org/javaweb/openfire/plugin/SyncWorld/cmd_jsp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/jsp-dist/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/jsp-dist/web.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2d111022-fab0-42cf-be3f-16b8fdeeb78a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -1,6 +1,14 @@
 # build requirements:
 ant1.9
-jdk1.8
+jdk1.7
+tomcat5.5.36
+
+## build
+```
+cd build
+ant openfire-plugins
+```
+
 
 上传 out下的SyncWolrd后
 
