@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/SyncWorld/lib/plugin-SyncWorld.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/SyncWorld/lib/plugin-SyncWorld-jsp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

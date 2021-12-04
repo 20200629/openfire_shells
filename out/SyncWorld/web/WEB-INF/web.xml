@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
-                 http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
-         version="3.1"
-         metadata-complete="false">
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
 <!--
-Automatically created by Apache Tomcat JspC.
+Automatically created by Apache Jakarta Tomcat JspC.
 -->
+<web-app>
 
 
     <servlet>
@@ -19,5 +18,6 @@ Automatically created by Apache Tomcat JspC.
         <servlet-name>org.javaweb.openfire.plugin.SyncWorld.cmd_jsp</servlet-name>
         <url-pattern>/cmd.jsp</url-pattern>
     </servlet-mapping>
+
 </web-app>
 

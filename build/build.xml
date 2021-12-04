@@ -34,7 +34,7 @@
 				<fileset dir="${tomcat.home}/bin">
 					<include name="*.jar" />
 				</fileset>
-				<fileset dir="${tomcat.home}/lib">
+				<fileset dir="${tomcat.home}/common/lib">
 					<include name="*.jar" />
 				</fileset>
 			</classpath>
@@ -74,7 +74,7 @@
 					<include name="*.jar" />
 				</fileset>
 				<pathelement location="${tomcat.home}/common/classes" />
-				<fileset dir="${tomcat.home}/lib">
+				<fileset dir="${tomcat.home}/common/lib">
 					<include name="*.jar" />
 				</fileset>
 				<pathelement location="${tomcat.home}/shared/classes" />
